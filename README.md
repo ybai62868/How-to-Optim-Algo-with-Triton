@@ -1,7 +1,4 @@
-# How-to-Optim-Algo-in-Triton
-
-
-# 👨‍💻 How to use Triton to Generate Tensor Programs to Optimize for Algorithms
+# 👨‍💻 How to use Triton to Generate Tensor Programs to Optimize Algorithms
 
 This project aims to optimize various important algorithms using OpenAI's Triton.
 
